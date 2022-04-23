@@ -1,0 +1,24 @@
+body{
+    background-color: lightslategray;
+    width: auto;
+    height: auto;
+}
+#tieude{
+    color: aliceblue;
+    text-transform: uppercase;
+}
+#menu{
+    color: aqua;
+}
+.a{
+    list-style-type: circle;
+}
+.b{
+    list-style: square;
+}
+.c{
+    list-style-type: decimal;
+}
+.d{
+    list-style-type: upper-roman;
+}
